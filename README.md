@@ -18,17 +18,12 @@
 
 ### 🧰 Tech Toolbox
 
-**Frontend**  
-`React` · `JavaScript` · `HTML` · `CSS` 
-
-**Backend**  
-`Node.js` · `Express.js`
-
-**Database**  
-`MongoDB`
-
-**Core Skills**  
-`Git` · `REST APIs` · `OOP` · `Problem Solving`
+| Category        | Tools & Technologies |
+|----------------|----------------------|
+| 🖥️ Frontend     | React ⚛️, JavaScript 📜, HTML5 🧱, CSS 🎨 |
+| ⚙️ Backend       | Node.js 🟩, Express.js 🚂 |
+| 🗄️ Database      | MongoDB 🍃 |
+| 🛠️ Core Skills   | Git 🧑‍💻, REST APIs 🌐, OOP 🧩, Problem Solving 💡 |
 
 ---
 
