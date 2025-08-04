@@ -1,42 +1,47 @@
-#🙋‍♀️ Hello, I'm Shraddha!
-Welcome to my corner of the internet! I'm a Computer Science student with a curious mind, a love for clean code, and a drive to build things that make a difference.
+<h1 align="center">Hi there, I'm Shraddha! 👩‍💻</h1>
 
+<p align="center">
+  <em>A curious mind, a clean coder, and a builder at heart.</em><br>
+  <em>🎓 Computer Science Student | 🛠️ Developer | 🌱 Learner</em>
+</p>
 
-🌟 What I’m All About
+---
 
-🧠 Always eager to learn and innovate in the world of tech
+### 🌟 About Me
 
-🌐 Currently exploring the realms of Web Development, AI, and Backend Engineering
+- 🧠 Passionate about learning, building, and solving real-world problems  
+- 🌐 Exploring Web Development, AI, and Backend Engineering  
+- 💬 Coding with **C++**, **Java**, **Python**, and **JavaScript**  
+- 🤝 Always excited to collaborate on meaningful tech projects  
 
+---
 
-💬 Love working with C++, Python, Java, and JavaScript
+### 🧰 Tech Toolbox
 
+**Frontend**  
+`React` · `JavaScript` · `HTML` · `CSS` 
 
-🤝 Always excited to team up on impactful tech projects
+**Backend**  
+`Node.js` · `Express.js`
 
+**Database**  
+`MongoDB`
 
+**Core Skills**  
+`Git` · `REST APIs` · `OOP` · `Problem Solving`
 
-🛠️ My Developer Toolbox
-Here are some of the tools and technologies I work with:
+---
 
+### 🚧 Projects In Progress
 
-Frontend: React, JavaScript, HTML, CSS, Tailwind CSS
+Currently building new projects, experimenting with ideas, and contributing to open source.  
+➡️ [Check out my repositories](https://github.com/ThatiShraddha?tab=repositories) to see what I’ve been up to!
 
-Backend: Node.js, Express.js
+---
 
-Database: MongoDB
+### ✨ Let’s Connect!
 
-Core Skills: Git, REST APIs, Object-Oriented Programming, Problem Solving
+If you're working on something exciting or want to geek out over tech, I’d love to chat!  
+Let’s grow and build together 🚀
 
-
-
-🚧 Projects In Progress
-I'm currently experimenting, building, and learning—new projects coming soon!
-Until then, check out my repositories to see what I’ve been up to.
-
-
-✨ Let’s Connect
-If you’re working on something exciting or just want to chat about tech, feel free to reach out. I’m always up for learning and collaboration!
-
-
-"The best way to predict the future is to invent it." – Alan Kay
+> *“The best way to predict the future is to invent it.” – Alan Kay*
